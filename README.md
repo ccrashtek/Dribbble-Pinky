@@ -19,7 +19,7 @@ after that, you need to install dribbblish extension:
 ### Windows
 In Powershell:
 ```powershell
-cd "$(spicetify -c | Split-Path)\Themes\Dribbblish"
+cd "$(spicetify -c | Split-Path)\Themes\Dribbble-Pinky"
 Copy-Item dribbblish.js ..\..\Extensions
 spicetify config extensions dribbblish.js
 spicetify config current_theme Dribbble-Pinky color_scheme base
@@ -30,7 +30,7 @@ spicetify apply
 ### Linux and MacOS:
 In Bash:
 ```bash
-cd "$(dirname "$(spicetify -c)")/Themes/Dribbblish"
+cd "$(dirname "$(spicetify -c)")/Themes/Dribbble-Pinky"
 cp dribbblish.js ../../Extensions
 spicetify config extensions dribbblish.js
 spicetify config current_theme Dribbble-Pinky color_scheme base
