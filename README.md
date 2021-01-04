@@ -12,7 +12,7 @@ Pinky is pink color scheme for Dribbble spicetify theme, if you want to help me 
 ## Installation:
 Open command prompt or whatever, and copy&paste the following command:
 ```
-.spicetify\Themes && git clone https://github.com/ccrashtek/Dribbble-Pinky
+cd .spicetify\Themes && git clone https://github.com/ccrashtek/Dribbble-Pinky
 ```
 after that, you need to install dribbblish extension:
 
