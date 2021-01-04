@@ -40,7 +40,7 @@ spicetify config current_theme Dribbble-Pinky color_scheme base
 spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
 spicetify apply
 ```
-!(https://i.imgur.com/8Qd0O2q.png)
+![](https://i.imgur.com/8Qd0O2q.png)
 After installation you need to go to spotify directory, create shortcut for ```Spotify.exe``` and write ```--transparent-window-controls``` after "Target" path
 You can also apply icon by going to shortcut properties and clicking "Change Icon"
 
