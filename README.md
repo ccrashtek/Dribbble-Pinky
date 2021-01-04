@@ -1,11 +1,11 @@
 ![Pinky](https://i.imgur.com/zTMr1qZ.png)
 
 # Dribbble-Pinky
-[Spicetify](https://github.com/khanhas/spicetify-cli)
+### [Spicetify](https://github.com/khanhas/spicetify-cli)
 
-[Original theme](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish)
+### [Original theme](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish)
 
-Pinky is pink color scheme for Dribbble spicetify theme, if you want to help me and improve this color cheme please contact me (Да#4103)
+### Pinky is pink color scheme for Dribbble spicetify theme, if you want to help me and improve this color cheme please contact me (Да#4103)
 
 ## Screenshots:
 
