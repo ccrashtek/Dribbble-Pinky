@@ -7,7 +7,7 @@
 	--main-corner-radius: 15px;
 	--main-gap: 10px;
 	/* If you are using SpotifyNoControl.exe, set this variable to 0 */
-	--os-windows-icon-dodge: 0;
+	--os-windows-icon-dodge: 1;
 }
 
 div#popover-container::before {
